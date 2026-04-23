@@ -1,0 +1,10 @@
+{
+  "break": [
+    "samples/break/0.wav",
+    "samples/break/1.wav"
+  ],
+  "mbd": [
+    "samples/mbd/1.wav",
+    "samples/mbd/2.wav"
+  ]
+}
