@@ -11,5 +11,9 @@
     "samples/jfasanohikarinonakade/0.wav",
     "samples/jfasanohikarinonakade/1.wav",
     "samples/jfasanohikarinonakade/2.wav"
+  ],
+  "pickup": [
+    "samples/pickup/0.mp3",
+    "samples/pickup/1.mp3"
   ]
 }
