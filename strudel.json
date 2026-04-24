@@ -6,5 +6,10 @@
   "mbd": [
     "samples/mbd/1.wav",
     "samples/mbd/2.wav"
+  ],
+  "jfasanohikarinonakade": [
+    "samples/jfasanohikarinonakade/0.wav",
+    "samples/jfasanohikarinonakade/1.wav",
+    "samples/jfasanohikarinonakade/2.wav"
   ]
 }
